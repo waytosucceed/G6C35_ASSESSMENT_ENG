@@ -1,0 +1,732 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "Story Reading and Analysis",
+      "questions": [
+        {
+          "questionNo": 1,
+          
+          "question": "What was Hans's kind act at the beginning of the story?",
+          "options": [
+            "He gave the old man a golden goose.",
+            "He helped an old man by sharing his food and water.",
+            "He rescued the old man from danger.",
+            "He gave the old man directions to the village."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          
+          "question": "What made the goose special?",
+          "options": [
+            "It could talk.",
+            "It had magical powers.",
+            "Its feathers were made of gold and shone brightly.",
+            "It could fly higher than any other bird."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          
+          "question": "What made the princess laugh?",
+          "options": [
+            "Hans told her a funny joke.",
+            "She saw the chain of people stuck to the golden goose.",
+            "The goose started singing.",
+            "The old man danced in front of her."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          
+          "question": "What reward did Hans receive from the king?",
+          "options": [
+            "A golden crown.",
+            "A magical sword.",
+            "The princess’s hand in marriage.",
+            "A bag of gold."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          
+          "question": "What is the main theme of the story?",
+          "options": [
+            "Hard work always pays off.",
+            "Kindness and generosity bring unexpected rewards.",
+            "Magic solves all problems.",
+            "Wealth is the key to happiness."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          
+          "question": "How did Hans feel after receiving the golden goose?",
+          "options": [
+            "Nervous and confused.",
+            "Angry and disappointed.",
+            "Thrilled and happy.",
+            "Tired and annoyed."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          
+          "question": "Which character quality helped Hans succeed in the story?",
+          "options": [
+            "His kindness.",
+            "His bravery.",
+            "His cleverness.",
+            "His strength."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          
+          "question": "Why did the villagers try to touch the golden goose?",
+          "options": [
+            "They wanted to steal it from Hans.",
+            "They were curious about the shiny feathers.",
+            "The goose made loud noises.",
+            "The old man told them to touch it."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          
+          "question": "What lesson can we learn from the princess in the story?",
+          "options": [
+            "Laughter and joy can bring people together.",
+            "Wealth brings happiness.",
+            "Magic always solves sadness.",
+            "Sadness lasts forever."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          
+          "question": "What does the old man symbolise in the story?",
+          "options": [
+            "Wisdom and generosity.",
+            "Strength and courage.",
+            "Wealth and power.",
+            "Magic and trickery."
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Simple Tense",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "Which sentence is in the present tense?",
+          "options": [
+            "She baked a cake yesterday.",
+            "She will bake a cake tomorrow.",
+            "She bakes a cake every Saturday.",
+            "She is baking a cake right now."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Which verb correctly completes this sentence in the past tense?<br> 'Yesterday, the children _____ to the park.'",
+          "options": [
+            "go",
+            "went",
+            "will go",
+            "goes"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the sentence in the future tense.",
+          "options": [
+            "I write a letter.",
+            "I wrote a letter.",
+            "I will write a letter.",
+            "I am writing a letter."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "Which sentence is in the simple past tense?",
+          "options": [
+            "She visited her grandmother last week.",
+            "She visits her grandmother every month.",
+            "She will visit her grandmother next month.",
+            "She is visiting her grandmother right now."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Which verb correctly completes this sentence in the future tense? <br>'Tomorrow, the team _____ a new coach.'",
+          "options": [
+            "hire",
+            "hired",
+            "hires",
+            "will hire"
+          ],
+          "answer": 3
+        }
+      ]
+      
+    },
+    {
+      "heading": "Continuous Tense:",
+      "questions": [
+        {
+          "questionNo": 16,
+          "question": "Which sentence is in the present continuous tense?",
+          "options": [
+            "She writes a letter.",
+            "She was writing a letter.",
+            "She is writing a letter.",
+            "She will be writing a letter."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following is in the past continuous tense?",
+          "options": [
+            "They are playing soccer.",
+            "They were playing soccer.",
+            "They played soccer.",
+            "They will be playing soccer."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Which verb correctly completes this sentence in the future continuous tense?<br> 'Tomorrow at this time, I _____ reading a book.'",
+          "options": [
+            "was",
+            "am",
+            "will be",
+            "were"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank with the correct present continuous tense verb:<br> 'Right now, the children _____ their homework.'",
+          "options": [
+            "were doing",
+            "will be doing",
+            "are doing",
+            "do"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence is in the future continuous tense?",
+          "options": [
+            "She is eating dinner now.",
+            "She will eat dinner later.",
+            "She was eating dinner yesterday.",
+            "She will be eating dinner at 7 p.m. tomorrow."
+          ],
+          "answer": 3
+        }
+      ]
+      
+    },
+    {
+      "heading": "Perfect Tense:",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "Which sentence is in the present perfect tense?",
+          "options": [
+            "She is running fast.",
+            "She has run five kilometres already.",
+            "She ran five kilometres yesterday.",
+            "She will run five kilometres tomorrow."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 22,
+          "question": "Which of the following sentences is in the future perfect tense?",
+          "options": [
+            "They will have eaten dinner by the time we arrive.",
+            "They have eaten dinner already.",
+            "They had eaten dinner before we arrived.",
+            "They eat dinner at 7 p.m. every day."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "question": "Which sentence is not in the perfect tense?",
+          "options": [
+            "She has travelled to Paris many times.",
+            "She had travelled to Paris before the pandemic.",
+            "She will have travelled to Paris by next summer.",
+            "She travels to Paris every summer."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank with the correct past perfect tense verb:<br> 'By the time the bell rang, the students _____ their tests.'",
+          "options": [
+            "finish",
+            "will finish",
+            "had finished",
+            "have finished"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 25,
+          "question": "Which verb correctly completes this future perfect tense sentence?<br> 'By next year, she _____ her degree.'",
+          "options": [
+            "will complete",
+            "will have completed",
+            "has completed",
+            "had completed"
+          ],
+          "answer": 1
+        }
+      ]
+      
+    },
+    {
+      "heading": "Perfect Continuous Tense",
+      "questions": [
+        {
+          "questionNo": 26,
+          "question": "Which sentence is in the present perfect continuous tense?",
+          "options": [
+            "She is playing the piano.",
+            "She has been playing the piano for two hours.",
+            "She will have been playing the piano tomorrow.",
+            "She was playing the piano yesterday."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 27,
+          "question": "Fill in the blank with the correct verb in the past perfect continuous tense:<br> 'By the time the train arrived, we _____ for over an hour.'",
+          "options": [
+            "have been waiting",
+            "had been waiting",
+            "will have been waiting",
+            "are waiting"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 28,
+          "question": "Which sentence is in the future perfect continuous tense?",
+          "options": [
+            "She will be reading her book at noon.",
+            "She has been reading her book all afternoon.",
+            "She had been reading her book before the power went out.",
+            "She will have been reading her book for three hours by 5 p.m."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 29,
+          "question": "Choose the correct verb form to complete this present perfect continuous tense sentence:<br> 'He _____ studying for his test all day.'",
+          "options": [
+            "has been",
+            "had been",
+            "will have been",
+            "is been"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 30,
+          "question": "Which of the following is in the past perfect continuous tense?",
+          "options": [
+            "We have been cleaning the house all morning.",
+            "We had been cleaning the house before the guests arrived.",
+            "We will have been cleaning the house by evening.",
+            "We clean the house every weekend."
+          ],
+          "answer": 1
+        }
+      ]
+      
+    },
+    {
+      "heading": "Conversion In Tenses",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "Convert the sentence from simple past to past continuous:<b> 'They played soccer yesterday.'</b>",
+          "options": [
+            "They have been playing soccer yesterday.",
+            "They are playing soccer yesterday.",
+            "They were playing soccer yesterday.",
+            "They will be playing soccer yesterday."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 32,
+          "question": "Convert the sentence from simple future to future continuous:<b> 'He will write a letter tomorrow.'</b>",
+          "options": [
+            "He will be writing a letter tomorrow.",
+            "He is writing a letter tomorrow.",
+            "He has written a letter tomorrow.",
+            "He will write a letter every day."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 33,
+          "question": "Convert the sentence from simple present to present perfect:<b> 'I eat breakfast at 8 a.m.'</b>",
+          "options": [
+            "I have eaten breakfast at 8 a.m.",
+            "I will have eaten breakfast at 8 a.m.",
+            "I am eating breakfast at 8 a.m.",
+            "I had eaten breakfast at 8 a.m."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 34,
+          "question": "Convert the sentence from simple past to past perfect:<b> 'She finished her homework before dinner.'</b>",
+          "options": [
+            "She has finished her homework before dinner.",
+            "She had finished her homework before dinner.",
+            "She was finishing her homework before dinner.",
+            "She will finish her homework before dinner."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 35,
+          "question": "Convert the sentence from simple future to future perfect:<b> 'They will build the house by next year.'</b>",
+          "options": [
+            "They have built the house by next year.",
+            "They had built the house by next year.",
+            "They will be building the house by next year.",
+            "They will have built the house by next year."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 36,
+          "question": "Which is the correct change from continuous to perfect in the present tense?",
+          "options": [
+            "Am writing → Have/Has written",
+            "Am writing → Had written",
+            "Am writing → Was written",
+            "Am writing → Have written"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 37,
+          "question": "Which is the correct change from continuous to perfect continuous in the past tense?",
+          "options": [
+            "Was sleeping → Had slept",
+            "Was sleeping → Had been sleeping",
+            "Was sleeping → Has been sleeping",
+            "Was sleeping → Had been slept"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 38,
+          "question": "Change the sentence from future perfect to future continuous: <b>'They will have built the new house by next month.'</b>",
+          "options": [
+            "They will be building the new house by next month.",
+            "They are building the new house by next month.",
+            "They will build the new house by next month.",
+            "They will have been building the new house by next month."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 39,
+          "question": "Convert the sentence from simple present to present perfect continuous:<b> 'He exercises every morning.'</b>",
+          "options": [
+            "He is exercising every morning.",
+            "He has been exercising every morning.",
+            "He exercised every morning.",
+            "He will have exercised every morning."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 40,
+          "question": "Convert the sentence from simple past to past perfect:<b> 'They cleaned the house before the guests arrived.'</b>",
+          "options": [
+            "They had cleaned the house before the guests arrived.",
+            "They have cleaned the house before the guests arrived.",
+            "They were cleaning the house before the guests arrived.",
+            "They will clean the house before the guests arrive."
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Active and Passive Voice",
+      "questions": [
+        {
+          "questionNo": 41,
+          "question": "Identify the sentence in the active voice:",
+          "options": [
+            "The cake was baked by Sarah.",
+            "Sarah baked the cake.",
+            "The cake is being baked by Sarah.",
+            "The cake had been baked by Sarah."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 42,
+          "question": "Choose the correct passive voice form of the sentence:<br><b> 'They are painting the house.'</b>",
+          "options": [
+            "The house was painted by them.",
+            "The house is being painted by them.",
+            "The house will be painted by them.",
+            "The house has been painted by them."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 43,
+          "question": "Turn the sentence 'The cake was baked by Mom' into active voice:",
+          "options": [
+            "Mom was baking the cake.",
+            "The cake baked Mom.",
+            "Mom baked the cake."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 44,
+          "question": "Convert the active sentence to passive voice: <br><b>'She will complete the project by tomorrow.'</b>",
+          "options": [
+            "The project was completed by her by tomorrow.",
+            "The project is completed by her by tomorrow.",
+            "The project will have been completed by her by tomorrow.",
+            "The project will be completed by her by tomorrow."
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 45,
+          "question": "Convert the passive sentence to active voice:<br><b> 'The homework is being done by the students.'</b>",
+          "options": [
+            "The students do the homework.",
+            "The students are doing the homework.",
+            "The students have done the homework.",
+            "The students did the homework."
+          ],
+          "answer": 1
+        }
+      ]
+      
+    },
+    {
+      "heading": "Type of Sentences",
+      "questions": [
+        {
+          "questionNo": 46,
+          "question": "Identify the type of sentence:<br><b> 'The sun rises in the east.'</b>",
+          "options": [
+            "Declarative",
+            "Imperative",
+            "Interrogative",
+            "Exclamatory"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 47,
+          "question": "Which of the following is an imperative sentence?",
+          "options": [
+            "Do your homework before dinner.",
+            "What time does the bus arrive?",
+            "I love reading books!",
+            "The sky is blue today."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 48,
+          "question": "Identify the type of sentence: <br><b>'Wow! That’s an amazing painting!'</b>",
+          "options": [
+            "Declarative",
+            "Imperative",
+            "Interrogative",
+            "Exclamatory"
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 49,
+          "question": "What type of sentence is this?<br><b> 'Are you coming to the party tonight?'</b>",
+          "options": [
+            "Declarative",
+            "Imperative",
+            "Interrogative",
+            "Exclamatory"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 50,
+          "question": "What type of sentence is this? <br><b>'The library closes at 6 p.m.'</b>",
+          "options": [
+            "Declarative",
+            "Imperative",
+            "Interrogative",
+            "Exclamatory"
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Sentence, Fragments and Run-on",
+      "questions": [
+        {
+          "questionNo": 51,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "The cat under the table.",
+            "Ate the sandwich quickly.",
+            "They went to the park.",
+            "Because the sun was shining."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 52,
+          "question": "Which of the following is a sentence fragment?",
+          "options": [
+            "She loves to read books.",
+            "After the game ended.",
+            "The dog barked loudly.",
+            "I am going to the store."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 53,
+          "question": "Choose the run-on sentence: ",
+          "options": [
+            "I went to the store, and I bought some apples.",
+            "We walked to the park it was so much fun.",
+            "The dog chased the ball around the yard.",
+            "She is baking cookies for the school event."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 54,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "If you work hard and stay focused.",
+            "The flowers in the garden are blooming beautifully.",
+            "The dog barking at strangers.",
+            "Because it was raining heavily."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 55,
+          "question": "Identify the run-on sentence: ",
+          "options": [
+            "He studied for hours he still didn’t pass the test.",
+            "I love to read mysteries.",
+            "She walks to school every day.",
+            "The cake smells delicious, let’s eat it."
+          ],
+          "answer": 0
+        }
+      ]
+      
+    },
+    {
+      "heading": "Compound and Complex Sentences",
+      "questions": [
+        {
+          "questionNo": 56,
+          "question": "Identify the complex sentence: ",
+          "options": [
+            "The movie was long but interesting.",
+            "The movie was long, and it was interesting.",
+            "Although the movie was long, it was interesting.",
+            "The long movie was interesting."
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 57,
+          "question": "Identify the complex sentence: ",
+          "options": [
+            "She went to the store and bought some milk.",
+            "If you finish your homework, you can watch TV.",
+            "I went to the park, and my sister went to the mall.",
+            "The dog barked loudly at the mailman."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 58,
+          "question": "Which sentence is a compound sentence: ",
+          "options": [
+            "Although I was late, I still finished the race.",
+            "I wanted to go to the park, but it started raining.",
+            "Since it was cold, we wore jackets.",
+            "The cake that she baked was delicious."
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 59,
+          "question": "Which of the following is a complex sentence: ",
+          "options": [
+            "If it rains tomorrow, the picnic will be cancelled.",
+            "He ran fast, so he won the race.",
+            "I love chocolate, and my sister loves vanilla.",
+            "The cake is in the fridge."
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 60,
+          "question": "In the sentence 'While I enjoy reading, I prefer watching movies,' which part is the independent clause?",
+          "options": [
+            "While I enjoy reading",
+            "I prefer watching movies"
+          ],
+          "answer": 1
+        }
+      ]
+      
+    }
+  ]
+}
